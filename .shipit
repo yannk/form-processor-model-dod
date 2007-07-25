@@ -1,0 +1,7 @@
+# auto-generated shipit config file.
+steps = FindVersion, ChangeVersion, CheckChangeLog, DistTest, Commit, Tag, MakeDist
+
+#svn.tagpattern = Form-Processor-Model-DOD-%v
+svn.tagpattern = https://code.cyberion.net/svn/Form-Processor-Model-DOD/tags/%v
+
+CheckChangeLog.files = MyProj.Changes
