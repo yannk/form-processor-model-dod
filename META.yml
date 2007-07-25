@@ -1,0 +1,19 @@
+---
+name: Form-Processor-Model-DOD
+version: 0.01
+author:
+  - 'Yann Kerherve <yann.kerherve@gmail.com>'
+abstract: Model Class for Form::Processor based on Data::ObjectDriver
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+build_requires:
+  Test::More: 0
+provides:
+  Form::Processor::Model::DOD:
+    file: lib/Form/Processor/Model/DOD.pm
+    version: 0.01
+generated_by: Module::Build version 0.2808
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
