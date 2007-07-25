@@ -3,6 +3,7 @@ Changes
 lib/Form/Processor/Model/DOD.pm
 Makefile.PL
 MANIFEST
+MANIFEST.SKIP
 META.yml			# Will be created by "make dist"
 README
 t/00-load.t
