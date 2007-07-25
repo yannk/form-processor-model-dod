@@ -1,6 +1,7 @@
 Build.PL
 Changes
 lib/Form/Processor/Model/DOD.pm
+Makefile.PL
 MANIFEST
 META.yml			# Will be created by "make dist"
 README
